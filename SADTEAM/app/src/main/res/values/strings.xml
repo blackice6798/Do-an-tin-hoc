@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SAD TEAM</string>
+    <string name="sad_team">DSA TEAM</string>
+    <string name="nhap_anh">Nhap Anh</string>
+    <string name="chon_tat_ca">Chon tat ca</string>
+    <string name="dung_anh">Dung anh</string>
+    <string name="todo">TODO</string>
+</resources>
